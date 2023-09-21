@@ -1,5 +1,5 @@
 # unity-catalog.tf
-Terraform implementation Unity Catalog
+Terraform implementation of Unity Catalog
 
 The files in this repo will: 
 
