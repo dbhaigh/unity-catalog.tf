@@ -22,15 +22,12 @@ terraform {
 #
 #   Default Azapi provider
 #
-provider "azapi" { 
-    subscription_id = "6d19dea5-b1bd-4bab-9fa7-40688636add8"
-}
+provider "azapi" {}
 
 #
 #   Default AzureRM Provider - XE2CA Non-Production
 #
 provider "azurerm" {
-    subscription_id = "6d19dea5-b1bd-4bab-9fa7-40688636add8"
     features {}
 }
 
